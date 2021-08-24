@@ -1,0 +1,3 @@
+- Games and questions have temporary thumbnails when created
+- Quiz status is shown on start game popup for the admin (eg. Lobby, question 1, etc.)
+- Type validation for uploading question through files
