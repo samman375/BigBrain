@@ -2,4 +2,5 @@
 - Task was to create a web-based quiz application (similar to Kahoot).
 - This project had a focus on gaining experience utilising React.js.
 - Project Spec can be found in spec.md.
+- Application can be run in the terminal with: yarn start
 - A final mark of 87.8/100 was awarded and was worth 30% of grade.
