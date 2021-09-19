@@ -2,5 +2,7 @@
 - Task was to create a web-based quiz application (similar to Kahoot).
 - This project had a focus on gaining experience utilising React.js.
 - Project Spec can be found in spec.md.
-- Application can be run in the terminal in the frontend directory with: ```yarn start```
+- Application can be run in the terminal in the frontend directory with:
+  - In the backend directory run: ```yarn install``` to install dependencies then ```yarn start``` to start the backend.
+  - In the frontend directory run: ```yarn install``` to install dependencies then ```yarn start``` to start the frontend.
 - A final mark of 87.8/100 was awarded and was worth 30% of grade.
