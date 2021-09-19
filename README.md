@@ -6,5 +6,5 @@
   - Make sure you have yarn installed.
   - In the backend directory run: ```yarn install``` to install dependencies then ```yarn start``` to start the backend.
   - In the frontend directory run: ```yarn install``` to install dependencies then ```yarn start``` to start the frontend.
-  - WARNING: I have recently discovered a bug with the "Create an account" button that needs fixing. To create an account go to: ```http://localhost:3000/#/register``` (or whatever port listed)
+  - WARNING: I have recently discovered a bug with the "Create an account" button on the login page that needs fixing. To create an account go to: ```http://localhost:3000/#/register``` (or whatever port listed)
 - A final mark of 87.8/100 was awarded and was worth 30% of grade.
